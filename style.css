@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Caveat:wght@700&family=Josefin+Sans:ital,wght@1,100;1,300&family=Oleo+Script+Swash+Caps&family=Permanent+Marker&family=Tapestry&family=Ubuntu:ital,wght@1,300&family=Zilla+Slab&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}   
+.navbar-brand{
+    font-size: 30px;
+    font-family: 'Roboto Mono', monospace;
+}
+.navbar{
+margin: -10px 0;
+height: 61px;
+background-color: cadetblue;
+}
+.anibar{
+    background-color: lightcyan;
+}
+.About h2 {
+    text-align: center;
+    justify-content: center;
+    padding-top: 70px;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+.About p {
+    text-align: center;
+    justify-content: center;
+    margin: 20px 40px;
+    color: hsla(253, 100%, 60%, 0.751);
+    font-family: 'Roboto Mono', monospace;
+}
+.About .hpara{
+    margin-bottom:-110px;
+}
+.About {
+    background: url('./aboutbg.jpg') no-repeat center;
+    height: 80vh;
+    width: 100vw;
+    margin-top: -50px;
+}
+.slide h2{
+    background-color: rgba(127, 92, 78, 0.667);
+    justify-content: center;
+    text-align: center; 
+    margin-bottom: -3px;
+    color: rgb(236, 205, 49);
+    font-family: 'Roboto Mono', monospace;
+}
+.col {
+    margin-left: 30px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+
+.container-fluid {
+    background-color: cadetblue;
+}
+
+.container-fluid h2 {
+    justify-content: center;
+    text-align: center;
+}
+
+.container-fluid {
+    justify-content: center;
+    text-align: center;
+}
+
+a {
+    color: white;
+
+}
+#services .col{
+    margin-left: 22px;
+}
+#services h2{
+    font-family: 'Roboto Mono', monospace;
+}
+.contact{
+    justify-self: start;
+    text-align: start;
+    padding-left: 3.6rem;
+}
+#contact h3{
+    font-family: 'Roboto Mono', monospace; 
+}
+#moto{
+    padding:14px 0;
+}
+.community{
+    background-color: rgb(88, 88, 137);
+}
+
+#community{
+    padding:8px 0; 
+}
+#community h2{
+    font-family: 'Roboto Mono', monospace;
+}
